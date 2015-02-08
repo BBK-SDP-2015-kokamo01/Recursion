@@ -82,7 +82,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.119521916" vertical-offset="0" max-vertical-offset="753">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -289,10 +289,10 @@
         <option value="$PROJECT_DIR$/src/main/java/CalculatorFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/FactorialCalculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/FibonacciCalculator.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/CalculationGenorator.java" />
         <option value="$PROJECT_DIR$/src/main/.gitignore" />
         <option value="$PROJECT_DIR$/src/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -741,12 +741,12 @@
       <updated>1423351506558</updated>
       <workItem from="1423351511551" duration="303000" />
       <workItem from="1423351891025" duration="7658000" />
-      <workItem from="1423422330806" duration="1391000" />
+      <workItem from="1423422330806" duration="1433000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9352000" />
+    <option name="totallyTimeSpent" value="9394000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -930,7 +930,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.119521916" vertical-offset="0" max-vertical-offset="753">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
           <folding />
         </state>
       </provider>
