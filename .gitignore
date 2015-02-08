@@ -1,4 +1,5 @@
-*.iml
+recursion.iml
 *.ipr
 *.iws
+gradle/wrapper/gradle-wrapper.jar
 *gradle*
