@@ -2,11 +2,17 @@ public class CalculationGenorator {
     public static void main(String[] args) {
         CalculatorFactory calculatorFactory = new CalculatorFactory();
 
-        Calculator calculator = calculatorFactory.getCalculator("Factorial");
-        System.out.println(calculator.calculate(4));
+        Calculator factorialCalculator = calculatorFactory.getCalculator("Factorial");
+        System.out.println(factorialCalculator.calculate(4));
 
-        Calculator calculator1 = calculatorFactory.getCalculator("Fibonacci");
-        System.out.println(calculator1.calculate(5));
+        Calculator fibonacciCalculator = calculatorFactory.getCalculator("Fibonacci");
+        System.out.println(factorialCalculator.calculate(5));
+
+        Calculator bunnieEarCalculator = new BunnyEarsCalculator();
+        System.out.println(bunnieEarCalculator.calculate(6));
+
+        Calculator triangleCalculator = new TriangularNumberCalculator();
+        System.out.println(triangleCalculator.calculate(5));
 
         /**
          2.3 c) Hanoi towers
